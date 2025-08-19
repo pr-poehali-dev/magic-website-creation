@@ -190,7 +190,6 @@ export default function Index() {
                     {faq.answer}
                   </AccordionContent>
                 </AccordionItem>
-                </AccordionItem>
               ))}
             </Accordion>
           </section>
